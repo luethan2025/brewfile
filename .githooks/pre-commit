@@ -1,0 +1,13 @@
+#!/bin/sh
+
+if [ ! -f "./Brewfile" ]; then
+  echo "No Brewfile found in the project directory"
+  exit 1
+fi
+
+if ! brew bundle check --file=Brewfile; then
+  echo "Some packages failed to install"
+  exit 1
+fi
+
+exit 0
