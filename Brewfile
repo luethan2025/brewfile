@@ -10,6 +10,7 @@ brew 'curl'
 brew 'docker'
 brew 'docker-compose'
 brew 'zip'
+brew 'vcpkg'
 
 # go
 brew 'go'
