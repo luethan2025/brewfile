@@ -17,6 +17,9 @@ brew 'go'
 # python
 brew 'python'
 
+# cmake
+brew 'cmake'
+
 # node
 brew 'node'
 
