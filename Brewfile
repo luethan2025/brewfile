@@ -8,6 +8,7 @@ brew 'zsh'
 brew 'wget'
 brew 'curl'
 brew 'docker'
+brew 'docker-compose'
 brew 'zip'
 
 # go
