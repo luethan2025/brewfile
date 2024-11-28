@@ -27,5 +27,5 @@ brew 'node'
 # SystemVerilog
 brew 'verilator'
 
-# to .mp4
-brew 'ffmpeg'
+# utilities
+brew 'ffmpeg' # media handling
