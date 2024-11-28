@@ -24,5 +24,8 @@ brew 'cmake'
 # node
 brew 'node'
 
+# SystemVerilog
+brew 'verilator'
+
 # to .mp4
 brew 'ffmpeg'
