@@ -11,6 +11,7 @@ brew 'docker'
 brew 'docker-compose'
 brew 'zip'
 brew 'vcpkg'
+brew 'vim'
 brew 'tmux'
 
 # go
