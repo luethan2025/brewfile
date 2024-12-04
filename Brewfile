@@ -32,3 +32,4 @@ brew 'verilator'
 # utilities
 brew 'ffmpeg' # media handling
 brew 'tldr'   # man alternative
+brew 'tree'   # directories as trees
