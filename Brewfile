@@ -31,3 +31,4 @@ brew 'verilator'
 
 # utilities
 brew 'ffmpeg' # media handling
+brew 'tldr'   # man alternative
