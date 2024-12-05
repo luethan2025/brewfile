@@ -34,3 +34,4 @@ brew 'ffmpeg'  # media handling
 brew 'tldr'    # man alternative
 brew 'tree'    # directories as trees
 brew 'thefuck' # undo
+brew 'trash'   # safer rm
