@@ -30,6 +30,7 @@ brew 'node'
 brew 'verilator'
 
 # utilities
-brew 'ffmpeg' # media handling
-brew 'tldr'   # man alternative
-brew 'tree'   # directories as trees
+brew 'ffmpeg'  # media handling
+brew 'tldr'    # man alternative
+brew 'tree'    # directories as trees
+brew 'thefuck' # undo
