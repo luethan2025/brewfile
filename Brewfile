@@ -36,3 +36,4 @@ brew 'tree'    # directories as trees
 brew 'thefuck' # undo
 brew 'trash'   # safer rm
 brew 'mas'     # apple store cli
+brew 'awscli'  # amazon web services cli
